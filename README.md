@@ -15,21 +15,22 @@ I enjoy turning design ideas into functional, visually appealing websites.
 
 ---
 
-#### 🛍️ [Store Management System](#)
-Dashboard for managing sales, inventory, and reports.
+### 🚀 Featured Projects
 
-#### 🚌 [Transport Booking System](#)
-User interface for passenger scheduling and management.
+- 🛍️ [Store Management System](https://github.com/Stainless-aka/Store-management-system)  
+  Dashboard for managing sales, inventory, and reports.
 
-#### 🖼️ [Image Gallery Application](#)
-Modern image gallery with search and responsive layout.
+- 🚌 [Transport Booking System](https://github.com/Stainless-aka/transport-booking-system)  
+  Simple booking interface for passenger scheduling and management.
 
-#### 🏥 [Hospital Queue System](#)
-Real-time patient queue tracker with status updates.
+- 🖼️ [Image Gallery Application](https://github.com/Stainless-aka/image-gallery)  
+  Responsive gallery with search and lightbox image display.
 
-#### 🧮 [Computer-Based Test (CBT) System](#)
-Interactive exam system with automated scoring.
+- 🏥 [Hospital Queue System](https://github.com/Stainless-aka/hospital-queue-system)  
+  Real-time patient queue tracker with status update functionality.
 
+- 🧮 [Computer-Based Test (CBT) System](https://github.com/Stainless-aka/cbt-system)  
+  Interactive quiz interface with automated scoring.
 ---
 
 ### 📫 Contact Me
