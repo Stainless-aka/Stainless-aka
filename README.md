@@ -15,7 +15,6 @@ I enjoy turning design ideas into functional, visually appealing websites.
 
 ---
 
-### 🚀 Featured Projects
 #### 🛍️ [Store Management System](#)
 Dashboard for managing sales, inventory, and reports.
 
