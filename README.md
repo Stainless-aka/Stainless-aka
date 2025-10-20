@@ -16,7 +16,7 @@ I enjoy turning design ideas into functional, visually appealing websites.
 ---
 
 ### 🚀 Featured Projects
-#### 🛍️ [Store Management System](#)
+#### 🛍️ [Store Management System](Store Management System)
 Dashboard for managing sales, inventory, and reports.
 
 #### 🚌 [Transport Booking System](#)
@@ -27,9 +27,6 @@ Modern image gallery with search and responsive layout.
 
 #### 🏥 [Hospital Queue System](#)
 Real-time patient queue tracker with status updates.
-
-#### 🏛️ [Prison Management System](#)
-Admin dashboard for managing inmate and staff data.
 
 #### 🧮 [Computer-Based Test (CBT) System](#)
 Interactive exam system with automated scoring.
