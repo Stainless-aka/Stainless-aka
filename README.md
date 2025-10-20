@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayuba Godwin Inalegwu
 
-<!--
-**Stainless-aka/Stainless-aka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Frontend Developer | UI Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+I'm passionate about building **clean, responsive, and user-friendly web applications** using **HTML, CSS, JavaScript, and Bootstrap**.  
+I enjoy turning design ideas into functional, visually appealing websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, PHP (basic)
+- **Frameworks:** Bootstrap
+- **Tools:** Sublime Text, Git/GitHub, Figma (basic)
+- **Soft Skills:** Teamwork, Communication, Problem-solving
+
+---
+
+### 🚀 Featured Projects
+#### 🛍️ [Store Management System](#)
+Dashboard for managing sales, inventory, and reports.
+
+#### 🚌 [Transport Booking System](#)
+User interface for passenger scheduling and management.
+
+#### 🖼️ [Image Gallery Application](#)
+Modern image gallery with search and responsive layout.
+
+#### 🏥 [Hospital Queue System](#)
+Real-time patient queue tracker with status updates.
+
+#### 🏛️ [Prison Management System](#)
+Admin dashboard for managing inmate and staff data.
+
+#### 🧮 [Computer-Based Test (CBT) System](#)
+Interactive exam system with automated scoring.
+
+---
+
+### 📫 Contact Me
+📧 [Ayuskid15@gmail.com](mailto:Ayuskid15@gmail.com)  
+📍 Otukpo, Benue State, Nigeria  
+
+---
+
+⭐ **Fun Fact:** I enjoy learning new technologies and improving my frontend design skills every day!
