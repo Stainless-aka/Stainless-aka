@@ -29,7 +29,7 @@ I enjoy turning design ideas into functional, visually appealing websites.
 - 🏥 [Hospital Queue System](https://github.com/Stainless-aka/hospital-queue-system)  
   Real-time patient queue tracker with status update functionality.
 
-- 🧮 [Computer-Based Test (CBT) System](https://github.com/Stainless-aka/computer-based-test-(CBT)-system)  
+- 🧮 [Computer-Based Test (CBT) System](https://github.com/Stainless-aka/computer-based-test-CBT-system)  
   Interactive quiz interface with automated scoring.
 ---
 
