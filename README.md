@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayuba Godwin Inalegwu
+# 👋 Hi, I'm Godwin Ayuba Inalegwu
 
 🎯 **Frontend Developer | UI Enthusiast | Problem Solver**
 
@@ -9,8 +9,8 @@ I enjoy turning design ideas into functional, visually appealing websites.
 
 ### 🧰 Tech Stack
 - **Languages:** HTML, CSS, JavaScript, PHP (basic)
-- **Frameworks:** Bootstrap
-- **Tools:** Sublime Text, Git/GitHub, Figma (basic)
+- **Frameworks:** Bootstrap, React
+- **Tools:** Sublime Text, Git/GitHub, Figma (basic), Node.js
 - **Soft Skills:** Teamwork, Communication, Problem-solving
 
 ---
