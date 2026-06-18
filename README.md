@@ -8,9 +8,9 @@ I enjoy turning design ideas into functional, visually appealing websites.
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, PHP (basic)
+- **Languages:** HTML, CSS, JavaScript
 - **Frameworks:** Bootstrap, React
-- **Tools:** Sublime Text, Git/GitHub, Figma (basic), Node.js
+- **Tools:** Sublime Text, VS Code, KIRO, Git/GitHub, Node.js
 - **Soft Skills:** Teamwork, Communication, Problem-solving
 
 ---
