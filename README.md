@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Godwin Ayuba Inalegwu
 
-### 🚀 Frontend Developer • SaaS Builder • AI Enthusiast
+### 🚀 Full-Stack Developer • SaaS Builder • AI Enthusiast
 
-I'm a frontend developer from Nigeria passionate about building modern, user-friendly, and impactful digital products.
+[![Portfolio](https://img.shields.io/badge/Portfolio-godwin--ayuba--portfolio.vercel.app-0a0a0c?style=for-the-badge&logo=vercel&logoColor=white)](https://godwin-ayuba-portfolio.vercel.app/)
 
-I enjoy transforming ideas into real-world applications by combining clean UI design, scalable frontend architecture, and AI-powered solutions.
-
+I'm a full-stack developer from Nigeria passionate about building modern, user-friendly, and impactful digital products.
+I enjoy transforming ideas into real-world applications by combining clean UI design, scalable frontend & backend architecture, and AI-powered solutions.
 Currently, I'm focused on building products that solve real problems, exploring AI integration, and growing as a software engineer.
 
 ---
@@ -27,7 +27,16 @@ Currently, I'm focused on building products that solve real problems, exploring 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![KIRO](https://img.shields.io/badge/Kiro-000000?style=for-the-badge)
+
+---
+
+## 🌐 Portfolio
+
+Take a look at my work and case studies on my personal site:
+
+🔗 **[godwin-ayuba-portfolio.vercel.app](https://godwin-ayuba-portfolio.vercel.app/)**
 
 ---
 
@@ -35,41 +44,35 @@ Currently, I'm focused on building products that solve real problems, exploring 
 
 ### 🛍️ Store Management System
 Manage sales, inventory, and generate reports through an intuitive dashboard.
-
 🔗 https://github.com/Stainless-aka/Store-management-system
 
 ---
 
 ### 🚌 Transport Booking System
 Passenger scheduling and booking platform with a simple user interface.
-
 🔗 https://github.com/Stainless-aka/transport-booking-system
 
 ---
 
 ### 🖼️ Image Gallery Application
 Responsive image gallery with search and lightbox functionality.
-
 🔗 https://github.com/Stainless-aka/image-gallery-application
 
 ---
 
 ### 🏥 Hospital Queue System
 Real-time patient queue tracking with status updates.
-
 🔗 https://github.com/Stainless-aka/hospital-queue-system
 
 ---
 
 ### 🧮 Computer-Based Test (CBT) System
 Interactive examination platform with automated scoring.
-
 🔗 https://github.com/Stainless-aka/computer-based-test-CBT-system
 
 ---
 
 ## 🌱 Currently Working On
-
 - 🤖 Building AI-powered SaaS products
 - 🚀 Growing Project Genius AI
 - 📚 Deepening my software engineering skills
@@ -78,24 +81,28 @@ Interactive examination platform with automated scoring.
 ---
 
 ## 📈 Goals for 2026
-
 - Build profitable SaaS products
 - Contribute to open-source projects
 - Become a distinguished software engineer
-- Master modern frontend development
+- Master modern full-stack development
 
 ---
 
 ## 📫 Connect With Me
 
 📧 **Email:** <mailto:Ayuskid15@gmail.com>
-
+🌐 **Portfolio:** [godwin-ayuba-portfolio.vercel.app](https://godwin-ayuba-portfolio.vercel.app/)
 📍 **Location:** Otukpo, Benue State, Nigeria
+
+<!--
+  Add your other socials here once you share them, e.g.:
+  💼 **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+  🐦 **X (Twitter):** [@your-handle](https://x.com/your-handle)
+-->
 
 ---
 
 ### 💡 Fun Fact
-
 > I love turning ideas into products and believe that AI + Software Engineering will shape the future.
 
 ⭐ If you find my projects helpful, don't forget to star them!
