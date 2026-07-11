@@ -2,8 +2,6 @@
 
 ### 🚀 Full-Stack Developer • SaaS Builder • AI Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-godwin--ayuba--portfolio.vercel.app-0a0a0c?style=for-the-badge&logo=vercel&logoColor=white)](https://godwin-ayuba-portfolio.vercel.app/)
-
 I'm a full-stack developer from Nigeria passionate about building modern, user-friendly, and impactful digital products.
 I enjoy transforming ideas into real-world applications by combining clean UI design, scalable frontend & backend architecture, and AI-powered solutions.
 Currently, I'm focused on building products that solve real problems, exploring AI integration, and growing as a software engineer.
