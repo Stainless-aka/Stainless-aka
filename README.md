@@ -40,38 +40,6 @@ Take a look at my work and case studies on my personal site:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛍️ Store Management System
-Manage sales, inventory, and generate reports through an intuitive dashboard.
-🔗 https://github.com/Stainless-aka/Store-management-system
-
----
-
-### 🚌 Transport Booking System
-Passenger scheduling and booking platform with a simple user interface.
-🔗 https://github.com/Stainless-aka/transport-booking-system
-
----
-
-### 🖼️ Image Gallery Application
-Responsive image gallery with search and lightbox functionality.
-🔗 https://github.com/Stainless-aka/image-gallery-application
-
----
-
-### 🏥 Hospital Queue System
-Real-time patient queue tracking with status updates.
-🔗 https://github.com/Stainless-aka/hospital-queue-system
-
----
-
-### 🧮 Computer-Based Test (CBT) System
-Interactive examination platform with automated scoring.
-🔗 https://github.com/Stainless-aka/computer-based-test-CBT-system
-
----
-
 ## 🌱 Currently Working On
 - 🤖 Building AI-powered SaaS products
 - 🚀 Growing Project Genius AI
@@ -93,12 +61,7 @@ Interactive examination platform with automated scoring.
 📧 **Email:** <mailto:Ayuskid15@gmail.com>
 🌐 **Portfolio:** [godwin-ayuba-portfolio.vercel.app](https://godwin-ayuba-portfolio.vercel.app/)
 📍 **Location:** Otukpo, Benue State, Nigeria
-
-<!--
-  Add your other socials here once you share them, e.g.:
-  💼 **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-  🐦 **X (Twitter):** [@your-handle](https://x.com/your-handle)
--->
+ 💼 **LinkedIn:** [linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7/](https://www.linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7/)) 
 
 ---
 
