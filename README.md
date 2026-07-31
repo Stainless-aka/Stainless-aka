@@ -1,69 +1,183 @@
-# Hi there 👋, I'm Godwin Ayuba Inalegwu
+<h1 align="center">Hi 👋, I'm Godwin Inalegwu Ayuba</h1>
 
-### 🚀 Full-Stack Developer • SaaS Builder • AI Enthusiast
+<p align="center">
+Software Engineer • Full-Stack JavaScript Developer • Building Products That Solve Real Problems
+</p>
 
-I'm a full-stack developer from Nigeria passionate about building modern, user-friendly, and impactful digital products.
-I enjoy transforming ideas into real-world applications by combining clean UI design, scalable frontend & backend architecture, and AI-powered solutions.
-Currently, I'm focused on building products that solve real problems, exploring AI integration, and growing as a software engineer.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚡ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🧰 Tools & Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![KIRO](https://img.shields.io/badge/Kiro-800080?style=for-the-badge)
+<p align="center">
+<a href="https://godwin-ayuba-portfolio.vercel.app/">Portfolio</a> •
+<a href="mailto:Ayuskid15@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7/">LinkedIn</a>
+</p>
 
 ---
 
-## 🌐 Portfolio
+# About Me
 
-Take a look at my work and case studies on my personal site:
+I'm a software engineer from Nigeria focused on building modern web applications from idea to deployment.
 
-🔗 **[godwin-ayuba-portfolio.vercel.app](https://godwin-ayuba-portfolio.vercel.app/)**
+I enjoy designing clean user experiences, building scalable backend systems, integrating AI into products, and solving practical problems with software.
 
----
+Over the last few years I've worked on SaaS products, developer tools, AI-powered platforms, and marketplace applications using modern JavaScript technologies.
 
-## 🌱 Currently Working On
-- 🤖 Building AI-powered SaaS products
-- 🚀 Growing Project Genius AI
-- 📚 Deepening my software engineering skills
-- 🏗️ Learning how to build scalable systems
+I care about writing maintainable code, creating intuitive user experiences, and continuously improving as an engineer.
 
 ---
 
-## 📈 Goals for 2026
-- Build profitable SaaS products
-- Contribute to open-source projects
+# What I'm Building
+
+### 🚀 ProjectGenius AI *(Private)*
+
+An AI-powered SaaS platform helping university students generate structured academic research projects.
+
+**Highlights**
+
+- AI-powered research generation
+- Authentication & user management
+- Firebase backend
+- Document generation
+- Payment integration
+- Dashboard & project management
+
+---
+
+### 💬 Stuck Board
+
+A community platform where developers ask questions, share code snippets, discuss programming challenges, and collaborate to solve technical problems.
+
+**Features**
+
+- Authentication
+- Rich discussions
+- Code snippets
+- Categories & filtering
+- Mark solutions
+- Responsive UI
+
+---
+
+### 🛒 CampusMart *(Private)*
+
+A campus marketplace that enables students to buy and sell products securely.
+
+Built with:
+
+- Next.js
+- Firebase
+- Cloudinary
+- Authentication
+- Seller Dashboard
+- Real-time data
+
+---
+
+# Tech Stack
+
+### Languages
+
+- JavaScript
+- TypeScript
+- Python
+- HTML
+- CSS
+
+### Frontend
+
+- React
+- Next.js
+- Bootstrap
+
+### Backend
+
+- Node.js
+- Express.js
+- Firebase
+
+### Databases
+
+- Firestore
+- MySQL
+
+### Cloud & Dev Tools
+
+- Git
+- GitHub
+- Vercel
+- Firebase
+- Cloudinary
+- VS Code
+
+---
+
+# Engineering Principles
+
+I enjoy building software that is:
+
+- Simple to use
+- Easy to maintain
+- Scalable
+- Performance conscious
+- Accessible
+- Production ready
+
+I believe good engineering isn't only about writing code—it's about understanding users, solving the right problems, and building systems that people can depend on.
+
+---
+
+# Currently Learning
+
+- Software Architecture
+- Distributed Systems
+- AI Engineering
+- System Design
+- Design Patterns
+- Testing
+- Performance Optimization
+
+---
+
+# 2026 Goals
+
+- Launch profitable SaaS products
+- Contribute consistently to open source
+- Master system design
 - Become a distinguished software engineer
-- Master modern full-stack development
+- Mentor aspiring developers
 
 ---
 
-## 📫 Connect With Me
+# GitHub Stats
 
-📧 **Email:** <mailto:Ayuskid15@gmail.com>
-🌐 **Portfolio:** [godwin-ayuba-portfolio.vercel.app](https://godwin-ayuba-portfolio.vercel.app/)
-📍 **Location:** Otukpo, Benue State, Nigeria
- 💼 **LinkedIn:** [linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7/](https://www.linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7/)) 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Stainless-aka&show_icons=true&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stainless-aka&hide_border=true"/>
+
+</p>
 
 ---
 
-### 💡 Fun Fact
-> I love turning ideas into products and believe that AI + Software Engineering will shape the future.
+# Let's Connect
 
-⭐ If you find my projects helpful, don't forget to star them!
+📧 **Email**
+
+Ayuskid15@gmail.com
+
+🌍 **Portfolio**
+
+https://godwin-ayuba-portfolio.vercel.app
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7
+
+📍 **Location**
+
+Benue State, Nigeria
+
+---
+
+> "Software is more than code—it's solving problems that matter."
+
+⭐ Thanks for stopping by.
