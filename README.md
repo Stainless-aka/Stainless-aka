@@ -1,102 +1,82 @@
-<h1 align="center">Hi 👋, I'm Godwin Inalegwu Ayuba</h1>
+<h1 align="center">Hi, I'm Godwin Inalegwu Ayuba 👋</h1>
 
 <p align="center">
-Software Engineer • Full-Stack JavaScript Developer • Building Products That Solve Real Problems
+  <strong>Software Engineer · Full-Stack JavaScript Developer · AI Product Builder</strong>
 </p>
 
 <p align="center">
-<a href="https://godwin-ayuba-portfolio.vercel.app/">Portfolio</a> •
-<a href="mailto:Ayuskid15@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7/">LinkedIn</a>
+  I build practical digital products that solve real problems.
+</p>
+
+<p align="center">
+  <a href="https://godwin-ayuba-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="mailto:Ayuskid15@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7/">LinkedIn</a>
 </p>
 
 ---
 
-# About Me
+## About Me
 
-I'm a software engineer from Nigeria focused on building modern web applications from idea to deployment.
+I'm a software engineer based in Nigeria, interested in turning real-world problems into useful, dependable software.
 
-I enjoy designing clean user experiences, building scalable backend systems, integrating AI into products, and solving practical problems with software.
+My work sits mainly around web application development, product engineering, and practical AI integration. I enjoy taking ideas from early planning through interface design, implementation, deployment, and iteration.
 
-Over the last few years, I've worked on SaaS products, developer tools, AI-powered platforms, and marketplace applications using modern JavaScript technologies.
+I'm particularly interested in building products for underserved communities and solving problems in education, healthcare, and everyday business operations.
 
-I care about writing maintainable code, creating intuitive user experiences, and continuously improving as an engineer.
+I value strong fundamentals, thoughtful architecture, maintainable code, and user experiences that make complex tasks feel simple.
 
----
+## What I'm Working On
 
-# Tech Stack
+- **PHC Link** — Developing an offline-first platform to support primary healthcare operations, patient referrals, and health-facility visibility.
+- **ProjectGenius AI** — Building an AI-powered academic project assistance platform for Nigerian students.
+- **Product Engineering** — Exploring useful ways to combine modern web technologies with AI to build practical software.
 
-### Languages
+## Tech Stack
 
-- JavaScript
-- TypeScript
-- Python
-- HTML
-- CSS
+**Languages**
 
-### Frontend
+JavaScript · Python · HTML · CSS
 
-- React
-- Next.js
-- Bootstrap
+**Frontend**
 
-### Backend
+React · Vite · Bootstrap · Responsive Web Design
 
-- Node.js
-- Express.js
-- Firebase
+**Backend**
 
-### Databases
+Node.js · Express.js · REST APIs
 
-- Firestore
-- MySQL
+**Databases & Services**
 
-### Cloud & Dev Tools
+PostgreSQL · SQLite · MySQL · Supabase · Cloudinary
 
-- Git
-- GitHub
-- Vercel
-- Firebase
-- Cloudinary
-- VS Code
+**Tools & Deployment**
 
----
+Git · GitHub · VS Code · Vercel · Render
 
-# Engineering Principles
+## Engineering Approach
 
-I enjoy building software that is:
+I aim to build software that is:
 
-- Simple to use
-- Easy to maintain
-- Scalable
-- Performance-conscious
-- Accessible
-- Production-ready
+- **Useful:** solves a clearly understood problem.
+- **Maintainable:** structured for change, not just the first release.
+- **Reliable:** handles real-world conditions and failure cases.
+- **Accessible:** usable across devices and by different kinds of users.
+- **Practical:** balances good engineering with the resources available.
 
-I believe good engineering isn't only about writing code—it's about understanding users, solving the right problems, and building systems that people can depend on.
+I believe becoming a better engineer means going beyond making things work. It means understanding why they work, knowing their trade-offs, and continuously improving the systems we build.
+
+## Let's Connect
+
+- **Email:** [Ayuskid15@gmail.com](mailto:Ayuskid15@gmail.com)
+- **Portfolio:** [godwin-ayuba-portfolio.vercel.app](https://godwin-ayuba-portfolio.vercel.app/)
+- **LinkedIn:** [Godwin Inalegwu Ayuba](https://www.linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7/)
+- **Location:** Otukpo, Benue State, Nigeria
 
 ---
 
-# Let's Connect
+<p align="center">
+  <em>"Good software starts with understanding the problem."</em>
+</p>
 
-📧 **Email**
-
-Ayuskid15@gmail.com
-
-🌍 **Portfolio**
-
-https://godwin-ayuba-portfolio.vercel.app
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/godwin-inalegwu-ayuba-09b3153a7
-
-📍 **Location**
-
-Otukpo, Benue State, Nigeria
-
----
-
-> "Software is more than code—it's solving problems that matter."
-
-⭐ Thanks for stopping by.
+<p align="center">Thanks for visiting my profile.</p>
